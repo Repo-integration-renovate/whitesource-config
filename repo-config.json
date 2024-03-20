@@ -33,7 +33,13 @@
   },
   "remediateSettings": {
     "workflowRules": {
-      "enabled": true
+      "enabled": false
+    },
+    "enableRenovate": true,
+    "extends": [
+        "config:recommended",
+        "mergeConfidence:all-badges"
+      ]
     }
   },
   "imageSettings": {
