@@ -39,7 +39,10 @@
     "extends": [
       "config:recommended",
       "mergeConfidence:all-badges"
-    ]
+    ],
+    "major": {
+      "dependencyDashboardApproval": true
+    }
   },
   "imageSettings": {
     "imageTracing": {
