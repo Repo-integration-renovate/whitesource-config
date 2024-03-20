@@ -37,10 +37,9 @@
     },
     "enableRenovate": true,
     "extends": [
-        "config:recommended",
-        "mergeConfidence:all-badges"
-      ]
-    }
+      "config:recommended",
+      "mergeConfidence:all-badges"
+    ]
   },
   "imageSettings": {
     "imageTracing": {
